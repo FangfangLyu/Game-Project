@@ -5,4 +5,9 @@
 <a href = "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> 1.Click to download PyGame Wheel File
 </a>
 
-<a href = "https://youtu.be/_GikMdhAhv0">2.Click here to learn how to install Python 3.6 and PyGame</a>
+<a href = "https://youtu.be/_GikMdhAhv0">2.Click here to learn how to install Python 3.6 and PyGame
+</a>
+
+<a href = "http://www.maplesimulator.com/programs/bannedstory"> Image resource</a>
+<a href = "http://www.freesound.org/">Sound resource</a>
+<a href = "pixlr.com/editor/">Image editor</a>
