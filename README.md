@@ -8,4 +8,4 @@
 <a href = "https://youtu.be/_GikMdhAhv0">2.Click here to learn how to install Python 3.6 and PyGame
 </a>
 
-<p>Resources</p><a href = "http://www.maplesimulator.com/programs/bannedstory"> (Image resource,</a><a href = "http://www.freesound.org/">Sound resource,</a><a href = "pixlr.com/editor/">Image editor)</a>
+<p>Resources</p><a href = "http://www.maplesimulator.com/programs/bannedstory"> (Image resource(Bannedstory),</a><a href = "http://www.freesound.org/">Sound resource(Freesound),</a><a href = "pixlr.com/editor/">Image editor(pixlr)</a>
