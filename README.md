@@ -7,6 +7,7 @@
 
 <a href = "https://www.python.org/">2.Click to download Python
 </a>
+
 <a href = "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> 3.Click to download PyGame Wheel File
 </a>
 
