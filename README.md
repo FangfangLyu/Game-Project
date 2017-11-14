@@ -13,4 +13,4 @@
 
 <p>Resources</p><a href = "http://www.maplesimulator.com/programs/bannedstory"> (Image resource(Bannedstory),</a>
 <a href = "http://www.freesound.org/">Sound resource(Freesound),</a>
-<a href = "pixlr.com/editor/">Image editor(pixlr)</a>
+<a href = "https://pixlr.com/">Image editor(pixlr)</a>
